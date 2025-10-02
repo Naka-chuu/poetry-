@@ -70,3 +70,8 @@ a hymn of blood and fire.
 And when the world crumbles,
 I will still stand—
 a requiem in human shape.
+
+# poetry-
+
+[🌑 Klik di sini untuk buka versi websitenya](https://naka-chuu.github.io/poetry-/)
+
